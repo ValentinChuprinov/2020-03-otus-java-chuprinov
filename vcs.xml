@@ -18,6 +18,10 @@
           <option name="url" value="https://github.com/petrelevich/otus_java_2020_03.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/igorf/otus-java-2017-06-fedorenko.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$" />
