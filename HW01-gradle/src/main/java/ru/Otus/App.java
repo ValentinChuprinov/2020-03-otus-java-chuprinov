@@ -8,7 +8,7 @@ public class App {
         long divisorExample = 3 ;
         long dividendumExample = 41 ;
         long result = LongMath.divide(dividendumExample, divisorExample, RoundingMode.HALF_UP);
-        System.out.println("EasyExamplere" + " = " + result);
+        System.out.println("EasyExample" + " = " + result);
 
     }
 }
